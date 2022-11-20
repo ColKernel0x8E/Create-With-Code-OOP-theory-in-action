@@ -27,7 +27,7 @@ public class Raft : MonoBehaviour
         // move raft to other bank
         if (!isRightBank)
         {
-            transform.position += new Vector3(16.3f, 0, 0);
+            transform.position += new Vector3(14.5f, 0, 0);
         }
         else
         {

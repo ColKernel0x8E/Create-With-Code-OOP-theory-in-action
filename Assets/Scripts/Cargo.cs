@@ -15,7 +15,7 @@ public class Cargo : MonoBehaviour
     bool isOnRaft = false;
     public bool IsOnRaft { get { return isOnRaft; } }
 
-    float shiftXPosition = 32f;
+    float shiftXPosition = 25.5f;
     Vector3 startPosition;
 
     // There has to be a better of setting diet than through initialisation at start
